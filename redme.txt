@@ -1,0 +1,1 @@
+usage ./program  <sample.in   >sample.out
